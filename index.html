@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="main">
+      <h1 class="title">Check your knowledge</h1>
+      <p class="label">you can choose the category and the difficulty</p>
+      <div class="specify">
+        <div class="difficulty">
+          <button class="select" name="select" value="options">
+            Difficulty
+          </button>
+          <div class="options">
+            <p class="item">EASY</p>
+            <p class="item">MEDIUM</p>
+            <p class="item">DIFFICULT</p>
+          </div>
+        </div>
+        <div class="category">
+          <button class="select" disabled name="select" value="options">Category</button>
+          <div class="options">
+            <p class="item">Entertainment</p>
+            <p class="item">Science</p>
+            <p class="item">History</p>
+            <p class="item">Geography</p>
+            <p class="item">Sports</p>
+          </div>
+        </div>
+      </div>
+      <button class="start-btn btn">Start The Quiz</button>
+
+      <div class="overlay">
+        <img src="icons8-cancel.svg" class="close" alt="" />
+        <div class="modal">
+          <div class="question"></div>
+          <div class="answers-area"></div>
+          <button class="submit-btn btn">Submit answer</button>
+        </div>
+      </div>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

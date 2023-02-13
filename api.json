@@ -1,0 +1,294 @@
+{
+  "results": [
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which movie released in 2016 features Superman and Batman fighting?",
+      "correct_answer": "Batman v Superman: Dawn of Justice",
+      "answers": [
+        "Batman v Superman: Superapocalypse",
+        "Batman v Superman: Dawn of Justice",
+        "Batman v Superman: Black of Knight",
+        "Batman v Superman: Knightfall"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+      "correct_answer": "Duck",
+      "answers": ["Duck", "Bye", "Beamer", "Carry"]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these bones is hardest to break?",
+      "correct_answer": "Femur",
+      "answers": ["Cranium", "Humerus", "Tibia", "Femur"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many spaces are there on a standard Monopoly board?",
+      "correct_answer": "40",
+      "answers": ["28", "55", "36", "40"]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Vatican City is a country.",
+      "correct_answer": "True",
+      "answers": ["False", "True"]
+    },
+    {
+      "category": "Science",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "The &#039;Squaring the Circle&#039; problem is solvable.",
+      "correct_answer": "False",
+      "answers": ["True", "False"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT a team available in the game Pok&eacute;mon Go?",
+      "correct_answer": "Team Rocket",
+      "answers": ["Team Instinct", "Team Rocket", "Team Valor", "Team Mystic"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?",
+      "correct_answer": "United Kingdom",
+      "answers": ["Spain", "Portugal", "United Kingdom", "France"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did the Battle of Agincourt take place?",
+      "correct_answer": "1415",
+      "answers": ["1463", "1415", "1401", "1422"]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a real element?",
+      "correct_answer": "Vitrainium",
+      "answers": ["Praseodymium", "Hassium", "Vitrainium", "Lutetium"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;It&#039;s Always Sunny in Philadelphia&quot; what was the name of Frank&#039;s wrestling persona?",
+      "correct_answer": "The Trash Man",
+      "answers": ["Bird of War", "Day Man", "The Maniac", "The Trash Man"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these game franchises were made by Namco?",
+      "correct_answer": "Tekken",
+      "answers": ["Tekken", "Street Fighter", "Mortal Kombat", "Dragon Quest"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Overwatch character says the line &quot;Heroes never die!&quot;?",
+      "correct_answer": "Mercy",
+      "answers": ["Reaper", "Mercy", "Sonic", "Ana"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?",
+      "correct_answer": "James Bond",
+      "answers": ["Diddy Kong", "Mega Man", "Wave Racer", "James Bond"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The 2016 Disney animated film &#039;Moana&#039; is based on which culture?",
+      "correct_answer": "Polynesian",
+      "answers": ["Native American", "Polynesian", "Japanese", "Nordic"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these Disney shows is classified as an anime?",
+      "correct_answer": "Stitch!",
+      "answers": [
+        "Cory in the House",
+        "Stitch!",
+        "The Emperor&#039;s New School",
+        "Hannah Montana"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the DVD invented?",
+      "correct_answer": "1995",
+      "answers": ["2000", "1995", "1990", "1980"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In &quot;Star Trek&quot;, who was the founder of the Klingon Empire and its philosophy?",
+      "correct_answer": "Kahless the Unforgettable",
+      "answers": [
+        "Lady Lukara of the Great Hall",
+        "Molor the Unforgiving",
+        "Kahless the Unforgettable",
+        "Dahar Master Kor"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+      "correct_answer": "Ludvig Van Beethoven",
+      "answers": [
+        "Ludvig Van Beethoven",
+        "Chief Keef",
+        "Wolfgang Amadeus Mozart",
+        "Johannes Brahms"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the main antagonists in Battlestar Galactica?",
+      "correct_answer": "The Cylons",
+      "answers": [
+        "The Collective",
+        "The Federation",
+        "The Rebels",
+        "The Cylons"
+      ]
+    },
+    {
+      "category": "Science",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Psychology is the science of behavior and mind.",
+      "correct_answer": "True",
+      "answers": ["False", "True"]
+    },
+    {
+      "category": "Celebrities",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",
+      "correct_answer": "Bing Crosby",
+      "answers": [
+        "Elvis Presley",
+        "Bing Crosby",
+        "Charlie Chaplin",
+        "Groucho Marx"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many strings are there on a cello?",
+      "correct_answer": "4",
+      "answers": ["5", "4", "6", "8"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What TV show is about a grandfather dragging his grandson around on adventures?",
+      "correct_answer": "Rick &amp; Morty",
+      "answers": [
+        "Family Guy",
+        "South Park",
+        "American Dad",
+        "Rick &amp; Morty"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
+      "correct_answer": "Deid Mann",
+      "answers": [
+        "Deid Mann",
+        "Frank Sahwit",
+        "Shey De Killer",
+        "Raymond Shields"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which occupation did John Tanner, the main protagonist for Driver and Driver 2, had before turning into an undercover cop?",
+      "correct_answer": "Racing Driver",
+      "answers": [
+        "Taxi Driver",
+        "Delivery Driver",
+        "Racing Driver",
+        "Getaway Driver"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+      "correct_answer": "Verdi",
+      "answers": ["Mozart", "Berlioz", "Brahms", "Verdi"]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the 2014 Pokemon VGC Finals, which Pokemon was famous for bringing the winner to victory?",
+      "correct_answer": "Pachirisu",
+      "answers": ["Garchomp", "Pachirisu", "Lapras", "Primal Groudon"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?",
+      "correct_answer": "Enola Gay",
+      "answers": [
+        "Necessary Evil",
+        "The Great Artiste",
+        "Full House",
+        "Enola Gay"
+      ]
+    },
+    {
+      "category": "Entertainment",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following music bands is not from Finland?",
+      "correct_answer": "Sabaton",
+      "answers": ["Apocalyptica", "Sabaton", "Waltari", "Lordi"]
+    }
+  ]
+}
