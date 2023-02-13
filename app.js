@@ -17,7 +17,7 @@ let currentIndex = 0;
 let correctAnswers = 0;
 closeModal.addEventListener("click", () => {
   // alert("Quiz Is Finished");
-  overlay.classList.remove("active");
+  window.location.reload()
   difficultyBtn.removeAttribute("disabled");
   categoryBtn.removeAttribute("disabled");
 });
@@ -124,9 +124,7 @@ function showQuestions(filteredQues, count) {
 
 window.addEventListener("click", (e) => {
   if (e.target.classList.contains("overlay")) {
-    overlay.classList.remove("active");
-    difficultyBtn.removeAttribute("disabled");
-    categoryBtn.removeAttribute("disabled");
+    window.location.reload()
   }
 });
 
